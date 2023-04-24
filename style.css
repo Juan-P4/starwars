@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://media.tenor.com/lEuZK57PtxIAAAAC/space-stars.gif);
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size:xx-large;
+}
+
+.imperio{
+    background-color: rgba(255, 0, 0, 0.295);
+}
+    #vader{
+        font-size:200%;
+    }
+.soldados{
+    border:dashed;
+    letter-spacing: 3px;
+}
+
+.rebeldes{
+    background-color: rgba(0, 0, 255, 0.295);
+}
+    #caminacielos{
+        font-size:150%;
+        font-style: italic;
+    }
+.naves{
+    text-transform:uppercase;
+}
